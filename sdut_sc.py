@@ -1,6 +1,6 @@
 # _*_ coding : utf-8 _*_
 # @Time : 2022/7/16 18:36
-# @File : sdut登录
+# @File : sdut_sc
 # @Project : CODE_PY_single
 import json
 
@@ -19,7 +19,7 @@ post_url = ''
 
 page = 0
 
-# from data
+# from data 需要自己抓包
 data = {
     "xnm": "",
     "xqm": "",
