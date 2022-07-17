@@ -4,7 +4,6 @@
 # @Project : CODE_PY_single
 import json
 import requests
-import json
 import xlwt
 
 
